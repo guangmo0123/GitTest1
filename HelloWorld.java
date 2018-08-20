@@ -3,3 +3,8 @@ public class HelloWorld{
 		System.out.println("Hello World");
 	}
 }
+
+class Boy{
+	private String name;
+	private int age;
+}
